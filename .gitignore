@@ -2,3 +2,5 @@
 ssh/id_rsa
 
 ssh/github_rsa
+
+.DS_Store
